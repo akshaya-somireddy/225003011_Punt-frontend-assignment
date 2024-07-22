@@ -42,7 +42,9 @@ The app will open in your default browser at `http://localhost:3000`.
 **Assumptions**
 
 The application assumes that font data (`fontData.json`) is correctly structured with all necessary font families and their variants.
+
 It assumes that the provided font data covers a sufficient range of font weights and italic styles for each font family.
+
 It assumes that localStorage is available and persistent across browser sessions for auto-saving functionality.
 
  **Improvements**
@@ -50,8 +52,11 @@ It assumes that localStorage is available and persistent across browser sessions
 Given more time, here are improvements that could be made:
 
 Error Handling: Improve error handling for cases where selected font variants are not available.
+
 Enhanced UI/UX: Implement better styling and user interface components.
+
 Backend Integration: Replace localStorage with a backend API for storing user preferences.
+
 Accessibility: Ensure the application is accessible to all users, including screen readers and keyboard navigation.
 
 
