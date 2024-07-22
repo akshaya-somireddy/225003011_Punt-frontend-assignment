@@ -5,9 +5,13 @@ This project is a simple text editor application implemented in React with TypeS
 FEATURES
 
 Font Family Selector: Choose from a list of Google Fonts.
+
 Font Weight Selector: Select appropriate font weights available for the chosen font family.
+
 Italic Toggle: Activate or deactivate italic style for the selected font.
+
 Auto Save: Saves text and font family locally in the browser. On page reload, the last saved content loads with the correct font family and variant selected in the dropdown.
+
 Dynamic Variant Selection: Handles cases where a selected variant (weight + italic) is not available in the newly selected font family by finding the closest matching variant.
 
  **Installation**
