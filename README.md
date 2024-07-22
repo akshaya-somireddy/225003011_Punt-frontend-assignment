@@ -2,7 +2,7 @@
 
 This project is a simple text editor application implemented in React with TypeScript. It allows users to change the font family, font weight, and italic style of the entire text in a textarea. The font selector displays a list of Google Fonts, and the font weight selector shows appropriate weights supported for the selected font family. The italic toggle is active only if the selected font family and weight combination supports italic.
 
-FEATURES
+**FEATURES**
 
 Font Family Selector: Choose from a list of Google Fonts.
 
